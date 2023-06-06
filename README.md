@@ -1,7 +1,10 @@
 # G3
 
 ## Descrição
-Breve descrição do projeto.
+   Na visão de muitas empresas de diferentes setores, existe uma enorme diferença de conhecimento técnico e comportamental entre a expectativa/necessidade de uma empresa e o que se encontra à disposição para trabalhar. Algumas empresas, portanto, estão tomando a dianteira e estão propondo desenvolver competências técnicas e comportamentais antes de recrutarem, assim eles treinam um número grande de pessoas e conseguem contratar aqueles que se destacam.
+   Desenvolver um sistema para administrar e acompanhar todos os alunos e empresas parceiras nessa jornada.
+
+
 
 ## Pré-requisitos
 Antes de executar o projeto, verifique se você possui os seguintes pré-requisitos instalados em sua máquina:
