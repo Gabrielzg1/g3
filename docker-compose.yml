@@ -6,4 +6,3 @@ services:
       dockerfile: Dockerfile
     ports:
       - 3000:3000
-    # Adicione outros parâmetros do docker-compose específicos do submodulo2 aqui
