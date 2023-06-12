@@ -26,6 +26,9 @@ O projeto foi desenvolvido por uma equipe de colaboradores. Abaixo está a lista
 Siga as etapas abaixo para executar o projeto em sua máquina:
 
 1. Faça o clone deste repositório em um diretório de sua escolha.
+
+
+2. Abra um terminal e navegue até o diretório raiz do projeto.
    Execute os comandos para baixar os submodules
   ```shell
    git submodule init
@@ -33,8 +36,6 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
    ```shell
    git submodule update
    ```
-
-2. Abra um terminal e navegue até o diretório raiz do projeto.
 
 3. Execute o seguinte comando para iniciar o backend:
 
