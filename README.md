@@ -26,6 +26,13 @@ O projeto foi desenvolvido por uma equipe de colaboradores. Abaixo está a lista
 Siga as etapas abaixo para executar o projeto em sua máquina:
 
 1. Faça o clone deste repositório em um diretório de sua escolha.
+   Execute os comandos para baixar os submodules
+  ```shell
+   git submodule init
+   ```
+   ```shell
+   git submodule update
+   ```
 
 2. Abra um terminal e navegue até o diretório raiz do projeto.
 
