@@ -28,7 +28,7 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
 1. Faça o clone deste repositório em um diretório de sua escolha.
 
  ```shell
-  git clone --recurse-submodules <URL_do_repositório_principal>
+  git clone --recurse-submodules https://github.com/Gabrielzg1/g3.git
 
    ```
 2. Abra um terminal e navegue até o diretório raiz do projeto.
