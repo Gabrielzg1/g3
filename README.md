@@ -37,6 +37,8 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
    git submodule update
    ```
    #fique atento com a branch em que está em cada modulo
+   
+   
 3. Execute o seguinte comando para iniciar o backend:
 
    ```shell
