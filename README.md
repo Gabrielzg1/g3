@@ -66,7 +66,7 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
    
 6. instale as depenencias para abrir o aplicativo na sua máquina
    ```shell
-   cd frontend
+   npm install
    ```
 
    E execute o comando abaixo para iniciar o aplicativo Electron:
