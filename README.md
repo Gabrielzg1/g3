@@ -53,7 +53,7 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
 4. Em seguida, execute o seguinte comando para iniciar o frontend:
 
    ```shell
-   docker compose up
+   docker compose up -d
    ```
 
    Esse comando irá iniciar o frontend e estabelecer a comunicação com o backend.
