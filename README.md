@@ -27,7 +27,10 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
 
 1. Faça o clone deste repositório em um diretório de sua escolha.
 
+ ```shell
+  git clone --recurse-submodules https://github.com/Gabrielzg1/g3.git
 
+   ```
 2. Abra um terminal e navegue até o diretório raiz do projeto.
    Execute os comandos para baixar os submodules
   ```shell
@@ -36,7 +39,9 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
    ```shell
    git submodule update
    ```
-
+   #fique atento com a branch em que está em cada modulo
+   
+   
 3. Execute o seguinte comando para iniciar o backend:
 
    ```shell
